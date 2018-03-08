@@ -1,5 +1,5 @@
 ﻿.ax_default {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -8,41 +8,41 @@
   line-height:normal;
 }
 ._一级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 ._二级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
   text-align:left;
 }
 ._三级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:18px;
   text-align:left;
 }
 ._四级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:14px;
   text-align:left;
 }
 ._五级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   text-align:left;
 }
 ._六级标题 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:10px;
@@ -81,7 +81,7 @@
   color:#000000;
 }
 .heading_2 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:24px;
@@ -108,7 +108,7 @@
   text-align:left;
 }
 .shape1 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:400;
   font-style:normal;
   font-size:13px;
@@ -132,14 +132,14 @@
   text-align:left;
 }
 .float_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:24px;
   color:#FFFFFF;
 }
 .flat_button {
-  font-family:'Roboto Medium', 'Roboto Regular', 'Roboto';
+  font-family:'Roboto Medium', 'Roboto';
   font-weight:500;
   font-style:normal;
   font-size:14px;
@@ -149,7 +149,7 @@
   text-align:left;
 }
 .heading_21 {
-  font-family:'Arial-BoldMT', 'Arial Bold', 'Arial';
+  font-family:'Arial Negreta', 'Arial Normal', 'Arial';
   font-weight:700;
   font-style:normal;
   font-size:24px;
@@ -158,14 +158,14 @@
 .flow_shape {
 }
 .heading_1 {
-  font-family:'ArialMT', 'Arial';
+  font-family:'Arial Normal', 'Arial';
   font-weight:bold;
   font-style:normal;
   font-size:32px;
   text-align:left;
 }
 .primary_text_dark {
-  font-family:'Roboto';
+  font-family:'Roboto Regular', 'Roboto';
   font-weight:400;
   font-style:normal;
   font-size:14px;
